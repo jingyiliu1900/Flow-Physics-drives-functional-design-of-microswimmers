@@ -1,4 +1,4 @@
-# ciliate-mophology-design
+# flow-physics-drives-ciliate-mophology-design
 
 [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41467--025--59413--x-blue)](https://doi.org/10.1038/s41467-025-59413-x)
 [![Journal](https://img.shields.io/badge/Nature%20Communications-2025-green)](https://www.nature.com/articles/s41467-025-59413-x)
